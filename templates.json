@@ -224,6 +224,11 @@
       "id": "sms-broadcast",
       "name": "SMS Broadcast",
       "description": "Use a Twilio Notify service to subscribe users and broadcast messages to them"
+    },
+    {
+      "id": "google-sheets",
+      "name": "Google Sheets SMS Log",
+      "description": "Logs incoming SMS numbers and messages into a Google Sheets table"
     }
   ]
 }
